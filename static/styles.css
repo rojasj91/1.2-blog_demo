@@ -1,0 +1,27 @@
+body {
+    display: block;
+    margin: 0px;
+    background: #0e0e0e;
+
+}
+
+img {
+    width: 193px;
+    height: 73px;
+    -webkit-user-select: none;
+    cursor: zoom-in;
+    float: left;
+    background: white;
+    border: 5px solid darkgray;
+}
+
+.octocat {
+}
+
+
+.image-caption {
+    display: none;
+}
+
+
+

@@ -53,7 +53,7 @@ def hello():
     counter_file.write(str(new_count))
     counter_file.close()
 
-    index_file = open('index.html', 'r')
+    index_file = open('1.2-index.html', 'r')
     my_html = index_file.read()
     # print(my_html)
     index_file.close()
