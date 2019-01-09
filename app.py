@@ -32,7 +32,7 @@ def hello():
 
     post_name = request.args.get('post')
 
-    counter_file_name = '{}_likes.txt'.format(post_name)
+    counter_file_name = '{}_viewed.txt'.format(post_name)
 
     print(counter_file_name)
 
